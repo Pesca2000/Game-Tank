@@ -1,0 +1,22 @@
+[general]
+archivo = tanque.png
+sp_alto=4
+sp_ancho=4
+mapa=........#####........
+    
+
+[#]
+info=bloque
+fil=0
+col=24
+
+[.]
+info=pasto
+fil=0
+col=16
+
+[q]
+info=monticulo
+fil=0
+col=0
+
